@@ -98,14 +98,4 @@ Analysis was performed using **Microsoft Excel**, including:
   - Charting and Conditional Formatting  
   - Interactive Dashboards
 
----
-
-## 📎 Resources
-
-- 📁 **Dataset Link**: [Paste dataset link here]  
-- 🖼️ **Dashboard Snapshot**: [Paste dashboard image here]
-
----
-
-Let me know if you want me to help you design the dashboard layout or export it to a PDF or PPT format!
 
