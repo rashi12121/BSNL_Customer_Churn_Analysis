@@ -66,7 +66,7 @@ Analysis was performed using **Microsoft Excel**, including:
 |------------------|------------|
 | Month-to-Month   | **54.44%** |
 | Half-Yearly      | 37.20%     |
-| Annual           | **25.29%** |
+| Annual           | 25.29% |
 
 - **Annual plans** have the lowest churn rate. Month-to-month customers are the most likely to leave.
 
@@ -75,7 +75,7 @@ Analysis was performed using **Microsoft Excel**, including:
 |---------------|------------|
 | Influencer    | **77.92%** |
 | Entrepreneur  | 34.47%     |
-| Startup       | **5.61%**  |
+| Startup       | 5.61% |
 
 - **Influencers churn the most**, possibly due to their dynamic needs or lack of long-term value.
 - **Startups show the highest loyalty** with minimal churn.
